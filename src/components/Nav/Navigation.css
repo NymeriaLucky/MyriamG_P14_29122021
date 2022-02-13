@@ -1,0 +1,27 @@
+.navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigation__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.navigation__logo {
+  text-decoration: none;
+  color: #000;
+}
+
+.navigation__logo--img {
+  width: 108px;
+  height: 100px;
+}
+
+.navigation__logo--title {
+  font-size: 1.5rem;
+}

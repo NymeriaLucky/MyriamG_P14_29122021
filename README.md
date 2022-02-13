@@ -2,7 +2,7 @@
 
 HRNet : Conversion d'un plugin Jquery en module React
 
-Package npm : react-model_module
+Package npm : react-modal_module
 
 # 1. Prérequis
 
