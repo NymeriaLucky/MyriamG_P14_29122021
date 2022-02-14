@@ -2,8 +2,8 @@ import React, { useState } from "react";
 
 import CustomDatePicker from "../DatePicker/CustomDatePicker";
 import Dropdown from "../Dropdown/Dropdown";
-import { Modal, useModal } from "modal-react-module";
-import "modal-react-module/dist/components/Modal.css";
+import { Modal, useModal } from "react-modal_module";
+import "react-modal_module/dist/components/Modal.css";
 
 import "./Form.css";
 
